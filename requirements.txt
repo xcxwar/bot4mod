@@ -1,0 +1,8 @@
+httpx
+requests
+yt-dlp
+requests-toolbelt
+feedparser
+beautifulsoup4
+bale
+openai
